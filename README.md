@@ -17,9 +17,9 @@
 </p>
 <p align="center">
 <a href="https://github.com/samueltexa?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/samueltexa?label=Followers&style=social"></a>
-<a href="https://github.com/HunterNick2/RAVEN-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/samueltexa/WhatsAppBot-Raven?&style=social"></a>
-<a href="https://github.com/HunterNick2/RAVEN-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/HunterNick2/RAVEN-BOT?style=social"></a>
-<a href="https://github.com/HunterNick2/RAVEN-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HunterNick2/RAVEN-BOT?label=Watching&style=social"></a>
+<a href="https://github.com/samueltexa/WhatsAppBot-Raven/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/samueltexa/WhatsAppBot-Raven?&style=social"></a>
+<a href="https://github.com/samueltexa/WhatsAppBot-Raven/network/members"><img title="Fork" src="https://img.shields.io/github/forks/samueltexa/WhatsAppBot-Raven?style=social"></a>
+<a href="https://github.com/samueltexa/WhatsAppBot-Raven/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/samueltexa/WhatsAppBot-Raven?label=Watching&style=social"></a>
 </p>
  
 
@@ -78,7 +78,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 ## License
 
-[MIT License](https://github.com/HunterNick2/RAVEN-BOT/blob/main/LICENSE)
+[MIT License](https://github.com/samueltexa/WhatsAppBot-Raven/blob/main/LICENSE)
 
 Copyright (c) 2025 RAVEN-BOT 
 
