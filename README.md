@@ -16,8 +16,8 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-SamuelTexa-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/samueltexa?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/HunterNick2?label=Followers&style=social"></a>
-<a href="https://github.com/HunterNick2/RAVEN-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HunterNick2/RAVEN-BOT?&style=social"></a>
+<a href="https://github.com/samueltexa?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/samueltexa?label=Followers&style=social"></a>
+<a href="https://github.com/HunterNick2/RAVEN-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/samueltexa/WhatsAppBot-Raven?&style=social"></a>
 <a href="https://github.com/HunterNick2/RAVEN-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/HunterNick2/RAVEN-BOT?style=social"></a>
 <a href="https://github.com/HunterNick2/RAVEN-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HunterNick2/RAVEN-BOT?label=Watching&style=social"></a>
 </p>
