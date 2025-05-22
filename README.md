@@ -13,10 +13,10 @@
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=RAVEN+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝗡𝗶𝗰𝗸_𝗛𝘂𝗻𝘁𝗲𝗿-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-SamuelTexa-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/HunterNick2?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/HunterNick2?label=Followers&style=social"></a>
+<a href="https://github.com/samueltexa?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/HunterNick2?label=Followers&style=social"></a>
 <a href="https://github.com/HunterNick2/RAVEN-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HunterNick2/RAVEN-BOT?&style=social"></a>
 <a href="https://github.com/HunterNick2/RAVEN-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/HunterNick2/RAVEN-BOT?style=social"></a>
 <a href="https://github.com/HunterNick2/RAVEN-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HunterNick2/RAVEN-BOT?label=Watching&style=social"></a>
@@ -27,7 +27,7 @@
 
 <p align="center">
 
-<a href="https://api.whatsapp.com/send?phone=254114660061&text=Hello+Raven+dev+i+need+your+Help+on..."><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send?phone=256771172559&text=Hello+Raven+dev+i+need+your+Help+on..."><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/Baileys)***
@@ -47,7 +47,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 ## ` Fork this repo`
 <p align="centre">
-<a href="https://github.com/HunterNick2/RAVEN-BOT/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK RAVEN-BOT" width="160"></a>
+<a href="https://github.com/samueltexa/WhatsAppBot-Raven/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK RAVEN-BOT" width="160"></a>
 <p/>
 
   
@@ -60,7 +60,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 ###  ` Deploy On Heroku`
 
 
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/HunterNick2/RAVEN-BOT&template=https://github.com/HunterNick2/RAVEN-BOT.git)***
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/samueltexa/WhatsAppBot-Raven&template=https://github.com/samueltexa/WhatsAppBot-Raven.git)***
  
 
     
