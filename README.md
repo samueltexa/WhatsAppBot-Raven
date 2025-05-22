@@ -7,7 +7,7 @@
   
 <p align="center">
 
-[![Nick Hunter](https://github.com/HunterNick2.png?lenght=50width=50)](https://github.com/HunterNick2)
+[![SamuelTexa](https://avatars.githubusercontent.com/u/107931035?s=400&u=d3441d5cc874b9e261605a8d57f60c72277ca367&v=4?lenght=50width=50)](https://github.com/samueltexa)
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=RAVEN+WHATSAPP+BOT" alt="">
